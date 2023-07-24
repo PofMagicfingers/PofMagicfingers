@@ -4,7 +4,6 @@
 ### Full Stack Dev-Ops developer, Designer
 * 10+ years XP
 * Self-taught, coding passionate since youth.
-* Co-founder and CTO of [PodShows](http://podshows.fr/), [podradio](http://podradio.fr/)
 * Co-founder and CEO of [podCloud](https://podcloud.fr/)
 
 ### Experiences
