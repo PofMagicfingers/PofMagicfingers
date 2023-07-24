@@ -9,7 +9,7 @@
 
 ### Experiences
 
-January 2014 - current ; **CEO**, **CTO**, **SysAdmin** ; [podCloud](https://podcloud.fr/), PodShows
+January 2014 - current ; **CEO**, **CTO**, **SysAdmin** ; [podCloud](https://podcloud.fr/), podCloud SAS
 > *HTML5, CSS3, JS, Rails, MySQL, Postgres, MongoDB, Redis, Elasticsearch, Docker, Node, Elixir*
 > * Podcast plateform to help to discover, listen and create podcasts. Used by 100k+ unique persons per month
 > * RSS feed and sites generation
